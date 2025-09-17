@@ -6,9 +6,9 @@ Khi triển khai hệ thống check-in bằng vị trí và khuôn mặt tại c
 Liberty: - Với văn phòng nhỏ (100 user), hệ thống hoạt động ổn định do
 chỉ cần 1 tọa độ trung tâm và bán kính 50m.\
 
-- Nhưng khi mở rộng quy mô (1000 user, khuôn viên rộng), nhiều nhân viên
-  báo **không thể check-in dù vẫn ở trong công ty**. Điều này gây gián
-  đoạn trải nghiệm và ảnh hưởng trực tiếp đến công tác chấm công.
+Nhưng khi mở rộng quy mô (1000 user, khuôn viên rộng), nhiều nhân viên
+báo **không thể check-in dù vẫn ở trong công ty**. Điều này gây gián
+đoạn trải nghiệm và ảnh hưởng trực tiếp đến công tác chấm công.
 
 ### 2. Giá trị tôi mong muốn mang lại
 
